@@ -3,20 +3,26 @@ Welcome, and thank you for taking the time to view my portfolio. I've selected t
 
 ## JBREC Project Opportunity Analysis: Build-To-Rent Community
 
-[Project Opportunity Analysis: Waxahachie, TX](JBREC BTR - Waxahachie, TX 02.01.23 REDACTED.pdf)
+[Project Opportunity Analysis: Waxahachie, TX](https://github.com/JayCreighton/Portfolio/blob/main/JBREC%20BTR%20-%20Waxahachie%2C%20TX%2002.01.23%20REDACTED.pdf)
 
 ## Expert Witness Analysis: Effects of Wind Farms on Adjacent Property Values
 
+[Expert Witness Analysis](https://github.com/JayCreighton/Portfolio/blob/main/JBREC%20-%20Expert%20Witness%20Report%205.19.23.pdf)
+
 ## Market Summaries - JBREC Metro Analysis and Forecast
 
-[Selected Monthly Market Summaries](Market Summaries.pdf)
 [Selected Monthly Market Summaries](https://github.com/JayCreighton/Portfolio/blob/main/Market%20Summaries.pdf)
 
 ## My R Tutorial 
 
-
 [rpapoda: R Tutorial - Phase 1](rpapoda_phase_1.html)
+
 [rpapoda: R Tutorial - Phase 2](rpapoda_phase_2.html)
+
+## Restaurant Analysis
+I spent a lot of time bartending and waiting tables to help make ends meet while I was a fishing guide, working on my MBA, teaching skiing, and and exploring entrepreneurial pursuits. 
+
+Just note that the focus of this project is a significant portion of my income from several years ago. Many people are uncomfortable talking discussing specific numbers, but I live my life open source.
 
 ## Real Estate Pricing Shiny App, AI Contest Winner
 
